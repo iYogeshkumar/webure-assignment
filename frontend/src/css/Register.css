@@ -1,0 +1,23 @@
+.regcontainer{
+    width:50%;
+    height:400px;
+    background-color: #0a78c2;
+    border: 1px solid black;
+    margin:auto;
+    
+   
+}
+.input{
+    line-height:30px;
+    width:400px;
+    font-size: 20px;
+    
+}
+.signup{ 
+    font-weight: bold;
+}
+
+.signupbutton{
+    font-size: 30px;
+    cursor: pointer;
+}

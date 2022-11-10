@@ -1,0 +1,21 @@
+.head{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.head>div{
+    width: 17%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#headd>div>p{
+    
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+}

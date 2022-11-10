@@ -1,0 +1,22 @@
+.logincontainer{
+    width:50%;
+    height:400px;
+    background-color: #0a78c2;
+    border: 1px solid black;
+    margin:auto;
+   
+}
+.logininput{
+    line-height:30px;
+    width:400px;
+    font-size: 20px;
+    
+}
+.loginhead{ 
+    font-weight: bold;
+}
+
+.loginbutton{
+    font-size: 30px;
+    cursor: pointer;
+}
